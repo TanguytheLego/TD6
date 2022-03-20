@@ -1,0 +1,64 @@
+
+
+
+li {
+    font-family: Times ;
+    list-style: none;
+    
+    font-family: verdana;
+    width: 15%;
+    position:relative;
+    
+}
+
+.granda{
+    font-size: 25px;
+    font-family: verdana;
+    top: 0px;
+    float:left;
+    
+}
+
+.grandb {
+    position: relative;
+    font-size: 25px;
+    font-family: verdana;
+    float:left;
+}
+.grandc {
+    font-size: 25px;
+    font-family: verdana;
+    float:left;
+
+
+}
+.grandd {
+    position: relative;
+    font-size: 25px;
+    font-family: verdana;
+    float:left;
+}
+
+.childa{
+    float:left;
+    display: none;
+
+}
+.childb{
+    display: none;
+    float:left;
+}
+li:hover .childa{
+    display:block;
+
+
+
+}
+li:hover .childb{
+    display:block;
+}
+
+.poeme{
+    margin-left:300px;
+    
+}
